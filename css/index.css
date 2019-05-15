@@ -185,6 +185,7 @@ header nav {
   background: #a4bee8;
   padding: 0.75rem;
   border-radius: 2rem;
+  border: 1px solid #6b1b26;
 }
 .content .service {
   width: 45%;
@@ -192,6 +193,7 @@ header nav {
   background: #a4bee8;
   padding: 0.75rem;
   border-radius: 2rem;
+  border: 1px solid #6b1b26;
 }
 .content .pubs {
   width: 45%;
@@ -199,4 +201,5 @@ header nav {
   background: #a4bee8;
   padding: 0.75rem;
   border-radius: 2rem;
+  border: 1px solid #6b1b26;
 }
